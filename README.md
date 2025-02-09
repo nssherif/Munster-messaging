@@ -7,6 +7,9 @@
 
 # Messaging Microservice
 
+## Discplaimer
+This repo was copied as I lost access to the forked Repo after graduating from Memorial University
+
 ## Description
 
 This is a messaging microservice that was build using nest js that allows users to communication with each other in real time. There are additional features that this microservice provides as well, for that please jump to the how to use section of this document. 

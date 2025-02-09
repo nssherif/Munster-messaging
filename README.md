@@ -7,7 +7,7 @@
 
 # Messaging Microservice
 
-## Discplaimer
+## Disclaimer
 This repo was copied as I lost access to the forked Repo after graduating from Memorial University
 
 ## Description
